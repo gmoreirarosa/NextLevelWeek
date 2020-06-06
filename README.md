@@ -1,4 +1,8 @@
-# Next Level Week (NLW)
+# Ecoleta - Next Level Week (NLW)
+
+<p align="center">
+  <img src="/server/uploads/capa-nextlevelweek-ecoleta.png" width="780" height="500" />
+</p>
 
 Descrição
  - Projeto criado durante o Next Level Week de 01/06/2020 à 07/06/2020 ministrado pela @Rocketseat
